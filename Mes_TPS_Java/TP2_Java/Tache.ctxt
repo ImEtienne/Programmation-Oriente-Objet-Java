@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Tache
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Tache\ ici.\r\n\r\n\ @author\ KIBONGANI\ ETIENNE\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=description\ duree
+comment1.target=Tache(java.lang.String,\ long)
+comment2.params=
+comment2.target=long\ getDateLimite()
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment4.params=
+comment4.target=long\ getDateLimiteJours()
+comment5.params=
+comment5.target=long\ getDateLimiteHeures()
+comment6.params=
+comment6.target=long\ getDateLimiteMinutes()
+comment7.params=
+comment7.target=long\ getDateLimiteEnSecondes()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

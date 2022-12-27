@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EtendantException
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ EtendantException\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=message
+comment1.target=EtendantException(java.lang.String)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ \!\r\n
+numComments=2

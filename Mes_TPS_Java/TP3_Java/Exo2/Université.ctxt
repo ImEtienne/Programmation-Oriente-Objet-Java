@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Universit\u00E9
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Universit\u00E9\ ici.\r\n\r\n\ @author\ Etienne\r\n\ @version\ 20\:21\ 21/11/2021\r\n
+comment1.params=bats\ p
+comment1.target=Universit\u00E9(Batiments[],\ Personne)
+comment2.params=u
+comment2.target=Universit\u00E9(Universit\u00E9)
+comment3.params=
+comment3.target=Batiments[]\ getBats()
+comment4.params=
+comment4.target=Personne\ getPresident()
+numComments=5

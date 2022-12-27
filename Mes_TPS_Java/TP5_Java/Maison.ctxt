@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Maison
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Maison\ ici.\r\n\r\n\ @author\ Etienne\ KIBONGANI\ LOMBO\r\n\ @version\ 21\:24\ -\ 30/11/2021\r\n
+comment1.params=p1\ p2\ p3\ couleur\ epaisseurDuTrait
+comment1.target=Maison(Point,\ Point,\ Point,\ Color,\ double)
+comment1.text=\r\n\ Le\ constructeur\ d'objet\ de\ la\ classe\ Maison\ (La\ t\u00EAte\ de\ la\ classe\ maison\ avec\ \r\n\ une\ forme\ triangulaire)\r\n\ @param\ p1,\ p2,\ p3,\ couleur,\ epaisseurDuTrait,\ le\ param\u00E8tre\ du\ constructeur\r\n
+comment2.params=p1\ p2\ p3\ p4\ epaisseurDuTrait
+comment2.target=Maison(Point,\ Point,\ Point,\ Point,\ double)
+comment2.text=\r\n\ Le\ constructeur\ d'objet\ (surcharg\u00E9)\ permet\ de\ construire\ la\ suite\ de\ la\ classe\ maison\ avec\r\n\ une\ forme\ rectangulaire\r\n\ @param\ p1,\ p2,\ p3,\ p4,\ epaisseurDuTrait\r\n
+comment3.params=d
+comment3.target=void\ draw(fr.lacl.cpo.Drawing)
+comment3.text=\r\n\ La\ m\u00E9thode\ dessine\ 3\ lignes\ et\ 3\ points\ de\ cette\ m\u00EAme\ classe.(Le\ triangle\ ou\ notre\ dessin)\r\n\ @param\ d,\ le\ param\u00E8tre\ du\ m\u00E9thode\ \r\n
+comment4.params=d
+comment4.target=void\ draw2(fr.lacl.cpo.Drawing)
+comment4.text=\r\n\ La\ m\u00E9thode\ dessine\ 4\ lignes\ et\ 4\ points\ afin\ de\ former\ un\ rectangle\ qui\ nous\ permet\ d'avoir\r\n\ notre\ maison\ en\ enti\u00E8re.\r\n\ @param\ d,\ le\ param\u00E8tre\ de\ la\ m\u00E9thode\ \r\n
+numComments=5

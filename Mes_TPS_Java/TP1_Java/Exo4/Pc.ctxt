@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Pc
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Pc\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=nom\ NumeroModele\ Annee\ AdresseIp\ NomSalle
+comment1.target=Pc(java.lang.String,\ int,\ int,\ int[],\ java.lang.String)
+numComments=2

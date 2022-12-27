@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=exo1
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ exo1\ ici.\r\n\r\n\ @author\ Etienne\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nombre1\ nombre2
+comment2.target=int\ SommeNombre(int,\ int)
+comment3.params=nombre1\ nombre2
+comment3.target=int\ DifferenceNombre(int,\ int)
+comment4.params=nombre1\ nombre2
+comment4.target=int\ ProduitNombre(int,\ int)
+comment5.params=nombre1\ nombre2
+comment5.target=int\ QuotientNombre(int,\ int)
+comment6.params=nombre1\ nombre2
+comment6.target=int\ ResteNombre(int,\ int)
+numComments=7

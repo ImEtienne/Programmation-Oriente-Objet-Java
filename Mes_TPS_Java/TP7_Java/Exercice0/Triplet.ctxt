@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Triplet
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Triplet\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=element1\ element2\ element3
+comment1.target=Triplet(java.lang.Object,\ java.lang.Object,\ java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getElement1()
+comment3.params=
+comment3.target=java.lang.Object\ getElement2()
+comment4.params=
+comment4.target=java.lang.Object\ getElement3()
+comment5.params=e1
+comment5.target=void\ setElement1(java.lang.Object)
+comment6.params=e2
+comment6.target=void\ setElement2(java.lang.Object)
+comment7.params=e3
+comment7.target=void\ setElement3(java.lang.Object)
+comment8.params=
+comment8.target=void\ randomSwap()
+numComments=9

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Client
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Client\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=nom
+comment1.target=Client(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment3.params=
+comment3.target=java.util.ArrayList\ getClient()
+comment4.params=client
+comment4.target=void\ ajoutCommande(Commande)
+comment5.params=client
+comment5.target=void\ listeProduitsAlimentaires(Commande)
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Soup
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Soupe\ ici.\r\n\r\n\ @author\ Etienne\ KIBONGANI\ LOMBO\r\n\ @version\ 18\:07\ -\ 08/12/2021\r\n\ \r\n
+comment1.params=
+comment1.target=Soup()
+comment1.text=\r\n\ Le\ constructeur\ d'objets\ sans\ param\u00E8tre\r\n
+comment2.params=vegetable
+comment2.target=void\ add(Vegetable)
+comment2.text=\r\n\ M\u00E9thode\ ajout\ dans\ une\ liste\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ m\u00E9thode\ qui\ permet\ de\ parcourir\ la\ liste\ et\ d'afficher\ avec\ un\ foreach\r\n
+comment4.params=
+comment4.target=double\ getPeelingWeight()
+comment5.params=
+comment5.target=void\ sortByWeight()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Etoile
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Etoile\ ici.\r\n\r\n\ @author\ Etienne\ KIBONGANI\ LOMBO\r\n\ @version\ 23\:31\ -\ 25/11/2021\r\n
+comment1.params=xCentre\ yCentre\ rayon
+comment1.target=Etoile(int,\ int,\ int)
+comment1.text=\r\n\ Le\ constructeur\ surcharg\u00E9\ de\ la\ classe\ Etoile\r\n\ @param\ (x,y,z)\r\n
+comment2.params=d
+comment2.target=void\ dessineEtoile(fr.lacl.cpo.Drawing)
+comment2.text=\r\n\ methode\ de\ la\ classe\ Etoile\ qui\ nous\ permet\ d'avoir\ l'affichage.\r\n\ @param\ d,\ le\ param\u00E8tre\ de\ la\ m\u00E9thode\r\n
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Chronometre
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Chronometre\ ici.\r\n
+comment1.params=
+comment1.target=Chronometre()
+comment2.params=
+comment2.target=long\ dureeMicro()
+comment3.params=
+comment3.target=long\ dureeMilli()
+comment4.params=
+comment4.target=void\ reset()
+numComments=5

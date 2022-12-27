@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Point\ ici.\r\n\r\n\ @author\ Etienne\ KIBONGANI\ LOMBO\r\n\ @version\ 23\:31\ -\ 25/11/2021\r\n
+comment1.params=x\ y\ couleur\ trait
+comment1.target=Point(double,\ double,\ Color,\ double)
+comment1.text=\r\n\ Le\ contruction\ d'objets\ de\ la\ classe\ Point\ \r\n\ @param\ le\ point\ des\ coordonn\u00E9es\ (x,y,z)\ et\ trait\r\n
+comment2.params=d
+comment2.target=void\ draw(fr.lacl.cpo.Drawing)
+comment2.text=\r\n\ Methode\ de\ la\ classe\ Point\ qui\ permet\ de\ modifier\ la\ couleur,\ l'\u00E9paisseur\r\n\ et\ le\ point.\r\n\ @param\ d\ le\ param\u00E8tre\ de\ la\ m\u00E9thode\r\n
+comment3.params=
+comment3.target=double\ getX()
+comment3.text=\r\n\ le\ getter\ du\ point\ X\r\n\ @return\ x\r\n
+comment4.params=
+comment4.target=double\ getY()
+comment4.text=\r\n\ le\ getter\ du\ point\ Y\r\n\ @return\ y\r\n
+numComments=5

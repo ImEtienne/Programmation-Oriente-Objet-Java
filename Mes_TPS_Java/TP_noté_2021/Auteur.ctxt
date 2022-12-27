@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Auteur
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Auteur\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=nom\ anneeDeNaissance
+comment1.target=Auteur(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment3.params=a
+comment3.target=boolean\ equals(Auteur)
+numComments=4

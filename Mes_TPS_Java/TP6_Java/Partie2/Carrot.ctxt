@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Carrot
+comment0.text=\r\n\r\n\ @author\ Etienne\ KIBONGANI\ LOMBO\r\n\ @version\ 18\:07\ -\ 08/12/2021\r\n
+comment1.params=poids\ longueur
+comment1.target=Carrot(double,\ int)
+comment1.text=\r\n\ Le\ constructeur\ d'objets\ (surcharg\u00E9)\ \r\n\ @param\ poids\ et\ longeur,\ les\ param\u00E8tres\ du\ constructeur\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ M\u00E9thode\ permet\ de\ faire\ l'affichage\ optimis\u00E9e\ \r\n
+numComments=3

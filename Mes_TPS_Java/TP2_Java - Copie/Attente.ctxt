@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Attente
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Attente\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=duree
+comment1.target=Attente(long)
+comment2.params=
+comment2.target=boolean\ tempsDepasse()
+comment3.params=nanoseconds
+comment3.target=void\ nanosleep(long)
+comment4.params=
+comment4.target=void\ attendFin()
+numComments=5

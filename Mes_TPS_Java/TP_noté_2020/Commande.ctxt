@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Commande
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Commande\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=num
+comment1.target=Commande(int)
+comment2.params=
+comment2.target=int\ getNum()
+comment3.params=
+comment3.target=java.util.ArrayList\ getAlimentaires()
+comment4.params=
+comment4.target=java.util.ArrayList\ getMaison()
+comment5.params=
+comment5.target=java.util.ArrayList\ getVetements()
+comment6.params=p
+comment6.target=void\ ajoutProduit(Produit)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

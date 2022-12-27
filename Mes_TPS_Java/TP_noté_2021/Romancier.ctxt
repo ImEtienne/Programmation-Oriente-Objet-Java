@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Romancier
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Romancier\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=nomMaisonEdition\ type
+comment1.target=Romancier(java.lang.String,\ TypeAuteur)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

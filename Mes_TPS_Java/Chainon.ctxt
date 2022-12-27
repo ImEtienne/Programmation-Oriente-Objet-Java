@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Chainon
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Chainon\ ici.\r\n\r\n\ @author\ Etienne\ KIBONGANI\r\n\ @version\ 15\:45\ -\ 18/11/2021\r\n
+comment1.params=val
+comment1.target=Chainon(java.lang.String)
+comment2.params=val\ s
+comment2.target=Chainon(java.lang.String,\ Chainon)
+comment3.params=
+comment3.target=java.lang.String\ getInfo()
+comment4.params=
+comment4.target=Chainon\ getSuivant()
+comment5.params=s
+comment5.target=void\ setSuivant(Chainon)
+numComments=6

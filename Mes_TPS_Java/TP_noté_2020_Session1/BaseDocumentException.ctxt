@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BaseDocumentException
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ BaseDocumentException\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=message
+comment1.target=BaseDocumentException(java.lang.String)
+numComments=2

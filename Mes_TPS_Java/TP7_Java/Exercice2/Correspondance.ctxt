@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Correspondance
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Correspondance\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=Correspondance()
+comment2.params=list1\ list2
+comment2.target=Correspondance(java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=c
+comment3.target=Correspondance(Correspondance)
+comment4.params=k
+comment4.target=boolean\ existe(java.lang.Object)
+comment5.params=k\ v
+comment5.target=boolean\ insere(java.lang.Object,\ java.lang.Object)
+comment6.params=k\ v
+comment6.target=boolean\ remplace(java.lang.Object,\ java.lang.Object)
+comment7.params=k
+comment7.target=java.lang.Object\ get(java.lang.Object)
+comment8.params=k
+comment8.target=boolean\ efface(java.lang.Object)
+numComments=9

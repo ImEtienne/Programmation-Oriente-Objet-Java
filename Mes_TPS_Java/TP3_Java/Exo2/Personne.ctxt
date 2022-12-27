@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Personne
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Personne\ ici.\r\n\r\n\ @author\ Etienne\r\n\ @version\ 19\:08\ 21/11/2021\r\n
+comment1.params=nom\ birth
+comment1.target=Personne(java.lang.String,\ Date)
+comment2.params=p
+comment2.target=Personne(Personne)
+comment3.params=
+comment3.target=Personne\ copy()
+comment4.params=
+comment4.target=java.lang.String\ getNom()
+comment5.params=
+comment5.target=Date\ getBirth()
+numComments=6

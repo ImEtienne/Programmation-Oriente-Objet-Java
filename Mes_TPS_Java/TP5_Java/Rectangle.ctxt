@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Rectangle\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=p1\ p2\ p3\ p4\ epaisseurDuTrait
+comment1.target=Rectangle(Point,\ Point,\ Point,\ Point,\ double)
+comment1.text=\r\n\ Le\ construction\ d'objets\ avec\ param\u00E8tre\r\n\ @param\ p1,\ p2,\ p3,\ p4,\ epaisseurDuTrait\r\n
+comment2.params=d
+comment2.target=void\ draw(fr.lacl.cpo.Drawing)
+comment2.text=\r\n\ La\ m\u00E9thode\ permet\ de\ modifier\ l'apparence\ du\ point\ et\ des\ lignes\ \u00E0\ partir\ \r\n\ des\ m\u00E9thodes\ pr\u00E9defnies\ de\ la\ classe\ draw\r\n\ @param\ d,\ le\ param\u00E8tre\ de\ la\ classe\ classe\ Draw\r\n
+numComments=3

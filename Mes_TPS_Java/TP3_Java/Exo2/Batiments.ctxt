@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Batiments
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Batiments\ ici.\r\n\r\n\ @author\ Etienne\r\n\ @version\ 17\:49\ -\ 21/11/2021\r\n
+comment1.params=sallesDeCours\ num
+comment1.target=Batiments(Salles[],\ int)
+comment2.params=b
+comment2.target=Batiments(Batiments)
+comment3.params=
+comment3.target=Salles[]\ getSallesDeCours()
+comment4.params=
+comment4.target=int\ getNum()
+numComments=5

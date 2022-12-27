@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Date
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Date\ ici.\r\n\r\n\ @author\ Etienne\r\n\ @version\ 19\:03\ 21/11/2021\r\n
+comment1.params=year\ month\ day
+comment1.target=Date(int,\ int,\ int)
+comment2.params=d
+comment2.target=Date(Date)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

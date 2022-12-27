@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Triangle\ ici.\r\n\r\n\ @author\ Etienne\ KIBONGANI\ LOMBO\r\n\ @version\ 23\:31\ -\ 25/11/2021\r\n
+comment1.params=p1\ p2\ p3\ epaisseurDuTrait
+comment1.target=Triangle(Point,\ Point,\ Point,\ double)
+comment1.text=\r\n\ Le\ constructeur\ surcharg\u00E9\ de\ la\ classe\ Triangle\r\n\ @param\ trois\ points(p1,p2,p3)\r\n
+comment2.params=d
+comment2.target=void\ draw(fr.lacl.cpo.Drawing)
+comment2.text=\r\n\ La\ m\u00E9thode\ permet\ de\ modifier\ l'apparence\ du\ point\ et\ des\ lignes\r\n\ \u00E0\ partir\ des\ m\u00E9thodes\ pr\u00E9defnies\ de\ la\ classe\ draw\r\n\ @param\ d,\ le\ param\u00E8tre\ de\ la\ classe\ classe\ Draw\r\n
+numComments=3

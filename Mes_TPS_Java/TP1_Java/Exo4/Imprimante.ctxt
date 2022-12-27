@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Imprimante
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Imprimante\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=nom\ NumeroModele\ Annee\ AdresseIp\ NomDePilote\ infoLocalisation
+comment1.target=Imprimante(java.lang.String,\ int,\ int,\ int[],\ java.lang.String,\ InformationDeLocalisation)
+numComments=2

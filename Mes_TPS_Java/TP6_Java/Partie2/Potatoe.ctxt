@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Potatoe
+comment0.text=\r\n\r\n\ @author\ Etienne\ KIBONGANI\ LOMBO\r\n\ @version\ 18\:07\ -\ 08/12/2021\r\n
+comment1.params=poids\ nombreDeGermes
+comment1.target=Potatoe(double,\ int)
+comment1.text=\r\n\ Constructeur\ d'objets\ avec\ des\ param\u00E8tres\r\n\ @param\ poids\ et\ nombreDeGermes,\ les\ p\r\n
+comment2.params=p
+comment2.target=Potatoe(double)
+comment2.text=\r\n\ constructeur\ avec\ un\ seul\ param\u00E8tre\r\n\ @param\ p,\ le\ param\u00E8tre\ du\ constructeur\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=double\ getPeelingWeight()
+numComments=5

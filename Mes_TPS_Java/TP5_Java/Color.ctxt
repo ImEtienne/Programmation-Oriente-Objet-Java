@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Color
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Color\ ici.\r\n\r\n\ @author\ Etienne\ KIBONGANI\ LOMBO\r\n\ @version\ 23\:31\ -\ 25/11/2021\r\n
+comment1.params=red\ green\ blue
+comment1.target=Color(double,\ double,\ double)
+comment1.text=\r\n\ Le\ constructeur\ surcharg\u00E9\ de\ la\ classe\r\n\ @param\ (red,green,blue)\ \r\n\ \r\n
+comment2.params=d
+comment2.target=void\ setColor(fr.lacl.cpo.Drawing)
+comment2.text=\r\n\ La\ methode\ qui\ permet\ de\ modifier\ la\ couleur\r\n\ @param\ d,\ le\ param\u00E8tre\ de\ la\ m\u00E9thode\r\n
+comment3.params=
+comment3.target=double\ getRed()
+comment3.text=\r\n\ cette\ m\u00E9thode\ rend\ la\ varaible\ 'red'\ accessible\ en\ dehors\ de\ la\ classe\r\n\ @return\ red\r\n
+comment4.params=
+comment4.target=double\ getGreen()
+comment4.text=\r\n\ cette\ m\u00E9thode\ rend\ la\ varaible\ 'green'\ accessible\ en\ dehors\ de\ la\ classe\r\n\ @return\ 'green'\r\n
+comment5.params=
+comment5.target=double\ getBlue()
+comment5.text=\r\n\ cette\ m\u00E9thode\ rend\ la\ variable\ 'blue'\ accessible\ en\ dehors\ de\ la\ classe\r\n\ @return\ blue\r\n
+numComments=6

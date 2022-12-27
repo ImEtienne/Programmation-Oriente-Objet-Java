@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Inventaire
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Inventaire\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=pc\ imprimante\ portable
+comment1.target=Inventaire(Pc[],\ Imprimante[],\ Portable[])
+numComments=2

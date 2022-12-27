@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Portable
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Portable\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=Nom\ NumeroDeModele\ Annee\ AdresseMac\ utilisateur
+comment1.target=Portable(java.lang.String,\ int,\ int,\ int[],\ Utilisateur)
+numComments=2
